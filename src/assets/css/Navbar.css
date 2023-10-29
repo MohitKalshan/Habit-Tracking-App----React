@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 20px;
+    border-bottom: 2px solid #DBD8D8;
+  }
+  .right-nav{
+    display: flex;
+    align-items: center;
+  }
+  .right-nav h5{
+    color: #8892BB;
+    padding-right: 1.2em;
+    margin-bottom: 0;
+  }
+  
+  /* modal */
+  .modal-header{
+    border: none;
+  }
+  .modal-footer{
+    border: none;
+  }
+.addhabit-btn{
+    cursor: pointer;
+    color: white;
+    border: none;
+    background-color:#714FFE;
+    padding: 10px 20px;
+    border-radius: 8px;
+  }
